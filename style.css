@@ -1,0 +1,24 @@
+/* Heading */
+h1 {
+	color: black;
+	margin: 3em;
+}
+header {
+	background-color: #abe6da;
+	padding: .2em;
+	text-align: center;
+	font-style: normal;
+	font-size: 20px;
+	font-family: helvetica;
+}
+/* Body */
+
+ /* Images */
+
+img {
+	border: 1px solid red;
+ 	margin: .5em;
+	float: left;
+  	width: 15%; /* three boxes (use 25% for four, and 50% for two, etc) */
+  	padding: 20px; /* if you want space between the images */
+}
